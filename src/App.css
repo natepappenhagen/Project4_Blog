@@ -1,0 +1,86 @@
+/* .carousel-item {
+  width: 640px;
+  height: 360px;
+}
+.carousel-size {
+  text-align: center;
+} */
+.body-html-index {
+  background-color: rgb(52, 50, 50);
+}
+/* .main-title {
+  text-align: center;
+  color: #B2C100;
+  padding-bottom: 20px;
+  font-family: 'Qwigley', cursive;
+  font-size: 125px;
+} */
+.container {
+  padding-top: 60px;
+}
+.card-deck {
+  margin-top: 25px;
+}
+.column-posts {
+  max-height: 40%;
+}
+.navbar-main {
+  background-image: linear-gradient(to bottom,rgb(99, 150, 162) 0, rgb(99, 150, 162) 100%) !important; 
+}
+.link{
+  font-family: 'Courier New', Courier, monospace;
+}
+.jumbotron {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px; 
+}
+.home-image {
+  display: block stretch;
+  margin-left: 0%;
+  margin-right: 0%;
+  width: 100%;
+  margin-top: 0px;
+  padding: 0px;
+}
+/* .comment-edit-delete-btns {
+  text-align: center;
+} */
+.delete-btn{
+  margin-right: 10px;
+}
+/* .center-btns {
+  text-align: center;
+} */
+.submit-btn {
+  margin-right: 10px;
+}
+.center-comments-form {
+  margin-left: 30px;
+}
+.edit-comment-btn {
+  margin-right: 10px;
+}
+/* .center-post-btns {
+  text-align: center;
+} */
+.edit-post-btn {
+  margin-right: 10px;
+}
+.comment-h3 {
+  text-align: center;
+}
+.container-jumbo {
+  text-align: left;
+}
+.h1-jumbo {
+  text-align: center;
+  font-family: 'News Cycle', sans-serif;
+}
+.checkbox-robot {
+  /* text-align: center; */
+  font-family: 'Courier New', Courier, monospace;
+}
+/* .scroll {
+  overflow: scroll;
+} */
